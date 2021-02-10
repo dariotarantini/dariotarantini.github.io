@@ -14,8 +14,8 @@ paginate = 5
         url = "/tags/"
 
 [params]
-    author = "John Doe"
-    description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+    author = "Dario Tarantini"
+    description = "Programmatore e appassionato di tecnologia."
     menu_item_separator = " - "
     [[params.social]]
         name = "github"
