@@ -2,6 +2,8 @@ baseURL = "https://tarantini.dev"
 title = "Dario Tarantini"
 theme = "m10c"
 paginate = 5
+googleAnalytics = "UA-118364424-4"
+
 
 [menu]
     [[menu.main]]
