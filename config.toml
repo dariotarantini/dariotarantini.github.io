@@ -17,6 +17,7 @@ paginate = 5
     author = "Dario Tarantini"
     description = "Programmatore e appassionato di tecnologia."
     menu_item_separator = " - "
+    avatar = "static/avatar.jpg"
     [[params.social]]
         name = "github"
         url = "https://github.com/dariotarantini"
