@@ -7,12 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 10 Feb 2021 17:13:27 +0100</lastBuildDate><atom:link href="https://tarantini.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hi</title>
-      <link>https://tarantini.dev/posts/hi/</link>
+      <title>Introduzione al linguaggio orientato ai contratti Solidity</title>
+      <link>https://tarantini.dev/posts/introduzione-a-solidity/</link>
       <pubDate>Wed, 10 Feb 2021 17:13:27 +0100</pubDate>
       
-      <guid>https://tarantini.dev/posts/hi/</guid>
-      <description></description>
+      <guid>https://tarantini.dev/posts/introduzione-a-solidity/</guid>
+      <description>Prefazione La lettura di questo articolo richiede una conoscenza minima del funzionamento della blockchain, di cosa è una transazione e di come viene firmata una transazione. Mi impegnerò a descrivere solo il funzionamento in modo generico di Solidity, degli smart contract e della creazione di un token ERC20.
+Lascerò al lettore eventuale approfondimenti.
+Cos&amp;rsquo;è? Solidity è un linguaggio di programmazione orientato ai contratti, utilizzato inizialmente per interagire con la blockchain Ethereum.</description>
     </item>
     
   </channel>
