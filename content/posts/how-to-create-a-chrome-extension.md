@@ -1,4 +1,7 @@
-# How to create a Chrome extension
+---
+title: "How to create a Chrome extension"
+date: 2021-07-10T17:13:27+01:00
+---
 A **Chrome extension** is a *sandboxed* webapp that can interact with a website or can run alone. 
 
 In this shot, we are going to make a simple "hello world" extension.
