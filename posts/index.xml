@@ -4,16 +4,18 @@
     <title>Posts on Dario Tarantini</title>
     <link>https://tarantini.dev/posts/</link>
     <description>Recent content in Posts on Dario Tarantini</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tarantini.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Jul 2021 17:13:27 +0100</lastBuildDate><atom:link href="https://tarantini.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>How to list directory in Python 3</title>
       <link>https://tarantini.dev/posts/how-to-list-directory-in-python3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Jul 2021 17:13:27 +0100</pubDate>
       
       <guid>https://tarantini.dev/posts/how-to-list-directory-in-python3/</guid>
-      <description>How to list directory in Python 3 Sometimes, we need to list all directories in a certain path. This simple task can be done in a few different ways:
+      <description>Sometimes, we need to list all directories in a certain path. This simple task can be done in a few different ways:
 Using os.listdir() open(&amp;quot;/tmp/test.txt&amp;quot;, &#39;a&#39;) # lets create a blank file arr = os.listdir(&amp;quot;/tmp&amp;quot;) print(arr) It needs only one parameter, the path we want to list.
-Using glob.glob() open(&amp;quot;/tmp/test.txt&amp;quot;, &#39;a&#39;) # lets create a blank file arr = glob.glob(&amp;quot;/tmp/*.txt&amp;quot;) print(arr) Its use is basically the same as listdir.</description>
+Using glob.glob() open(&amp;quot;/tmp/test.txt&amp;quot;, &#39;a&#39;) # lets create a blank file arr = glob.glob(&amp;quot;/tmp/*.txt&amp;quot;) print(arr) Its use is basically the same as listdir.
+ Note: glob.</description>
     </item>
     
   </channel>
