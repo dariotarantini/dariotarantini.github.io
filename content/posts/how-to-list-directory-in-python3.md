@@ -1,4 +1,7 @@
-# How to list directory in Python 3
+---
+title: "How to list directory in Python 3"
+date: 2021-07-09T17:13:27+01:00
+---
 Sometimes, we need to list all directories in a certain path. 
 This simple task can be done in a few different ways:
 
