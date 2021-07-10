@@ -17,5 +17,16 @@ Lascerò al lettore eventuale approfondimenti.
 Cos&amp;rsquo;è? Solidity è un linguaggio di programmazione orientato ai contratti, utilizzato inizialmente per interagire con la blockchain Ethereum.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://tarantini.dev/posts/how-to-list-directory-in-python3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tarantini.dev/posts/how-to-list-directory-in-python3/</guid>
+      <description>How to list directory in Python 3 Sometimes, we need to list all directories in a certain path. This simple task can be done in a few different ways:
+Using os.listdir() open(&amp;quot;/tmp/test.txt&amp;quot;, &#39;a&#39;) # lets create a blank file arr = os.listdir(&amp;quot;/tmp&amp;quot;) print(arr) It needs only one parameter, the path we want to list.
+Using glob.glob() open(&amp;quot;/tmp/test.txt&amp;quot;, &#39;a&#39;) # lets create a blank file arr = glob.glob(&amp;quot;/tmp/*.txt&amp;quot;) print(arr) Its use is basically the same as listdir.</description>
+    </item>
+    
   </channel>
 </rss>
